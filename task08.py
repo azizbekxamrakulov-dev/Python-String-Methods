@@ -1,0 +1,1 @@
+print(text.startswith('Ta'))
